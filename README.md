@@ -2,4 +2,4 @@
 
 Nothing crazy, just a simple Rock, Paper, Scissors game.
 
-Has a basic UI with images, you can play here: 
+Play here: https://codepen.io/coltenv/pen/BvjoNN 
